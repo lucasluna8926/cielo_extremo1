@@ -1,0 +1,8 @@
+.atajos:hover{color: #FFC300 !important;
+    scale: 1.1;
+    transition: 0.4s !important ; 
+    transition: linear;
+    border-color: aliceblue !important;
+    }
+
+
